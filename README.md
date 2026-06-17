@@ -1,12 +1,8 @@
 # 🎯 Group Discussion Topics Hub
 
 > **Comprehensive, Exam-Oriented Notes** for Group Discussions, UPSC, IAS, State PCS, IR, Current Affairs & Debates
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/group-discussion-topics?style=social)
 ![Topics](https://img.shields.io/badge/Topics-1-blue)
 ![Last Updated](https://img.shields.io/github/last-commit/yourusername/group-discussion-topics)
-![License](https://img.shields.io/github/license/yourusername/group-discussion-topics)
-
 ---
 
 ## 📌 About This Repository
