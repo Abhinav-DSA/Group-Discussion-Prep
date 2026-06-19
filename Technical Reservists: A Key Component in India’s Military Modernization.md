@@ -4,7 +4,7 @@
 ![UPSC SSB](https://img.shields.io/badge/For-UPSC%20%7C%20SSB%20%7C%20CDS-green) 
 ![GitHub Repo](https://img.shields.io/badge/Repository-GD%20Preparation-red)
 
-**Curated notes, analysis, global comparisons, challenges & interview-ready answers** for Group Discussions, Debates, and Personal Interviews on India's Defence Modernization.
+**Curated notes, analysis, global comparisons, challenges & interview-ready answers** for Group Discussions, Debates, and Personal Interviews on India's Defence Modernization - By Abhinav Srivastava
 
 ---
 
